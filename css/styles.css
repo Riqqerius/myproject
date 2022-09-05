@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 0;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: 600;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  position: relative;
+  font-weight: 600;
+}
+
+hr {
+  width: 50%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+.myself {
+  width: 13%;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 25px;
+  margin-bottom: 50px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+margin-top: 80px;
+background-color: #66BFBF;
+height: 150px;
+text-align: center;
+
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 290px;
+  right: 130px;
+}
+
+.top-cloud {
+  position: relative;
+  top: 30px;
+  left: 350px;
+}
+
+.mountain {
+  position: relative;
+  top: 28px;
+  right: 75px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skill1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  line-height: 0.5;
+}
+
+.skill2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.outro{
+  position: relative;
+  top: 25%;
+  margin-top: 40px;
+  font-size: 11px;
+  color: #EAF6F6;
+}
+
+.footer-link{
+  position: relative;
+  top: 25%;
+  text-decoration: none;
+  color: #EAF6F6;
+  padding: 0.5em 1em;
+  border-radius: 7px;
+  border: solid;
+  border-width: thin;
+
+}
+
+.contact-me{
+  text-align: center;
+  line-height: 2.2;
+
+}
+
+.lastp{
+  width: 39%;
+  margin: auto;
+  text-align-last: center;
+}
+
+.btn{
+padding: 10px 20px;
+position: relative;
+top: 30px;
+text-decoration: none;
+border-radius: 10px;
+background: #11999E;
+color: #EAF6F6;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+letter-spacing: 1px;
+font-weight: bold;
+}
+
+
+.firstp{
+  line-height: 2;
+  width: 40%;
+  margin: auto;
+  text-align-last: center;
+}
+
+.git{
+  font-size: 2.5rem;
+}
